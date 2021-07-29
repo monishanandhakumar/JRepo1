@@ -1,0 +1,13 @@
+C:\OnlineTraining\LTI\July21\CSharp\Day3\PrjThirdApplication\LINQEg\bin\Debug\netcoreapp3.1\LINQEg.exe
+C:\OnlineTraining\LTI\July21\CSharp\Day3\PrjThirdApplication\LINQEg\bin\Debug\netcoreapp3.1\LINQEg.deps.json
+C:\OnlineTraining\LTI\July21\CSharp\Day3\PrjThirdApplication\LINQEg\bin\Debug\netcoreapp3.1\LINQEg.runtimeconfig.json
+C:\OnlineTraining\LTI\July21\CSharp\Day3\PrjThirdApplication\LINQEg\bin\Debug\netcoreapp3.1\LINQEg.runtimeconfig.dev.json
+C:\OnlineTraining\LTI\July21\CSharp\Day3\PrjThirdApplication\LINQEg\bin\Debug\netcoreapp3.1\LINQEg.dll
+C:\OnlineTraining\LTI\July21\CSharp\Day3\PrjThirdApplication\LINQEg\bin\Debug\netcoreapp3.1\LINQEg.pdb
+C:\OnlineTraining\LTI\July21\CSharp\Day3\PrjThirdApplication\LINQEg\obj\Debug\netcoreapp3.1\LINQEg.csprojAssemblyReference.cache
+C:\OnlineTraining\LTI\July21\CSharp\Day3\PrjThirdApplication\LINQEg\obj\Debug\netcoreapp3.1\LINQEg.AssemblyInfoInputs.cache
+C:\OnlineTraining\LTI\July21\CSharp\Day3\PrjThirdApplication\LINQEg\obj\Debug\netcoreapp3.1\LINQEg.AssemblyInfo.cs
+C:\OnlineTraining\LTI\July21\CSharp\Day3\PrjThirdApplication\LINQEg\obj\Debug\netcoreapp3.1\LINQEg.csproj.CoreCompileInputs.cache
+C:\OnlineTraining\LTI\July21\CSharp\Day3\PrjThirdApplication\LINQEg\obj\Debug\netcoreapp3.1\LINQEg.dll
+C:\OnlineTraining\LTI\July21\CSharp\Day3\PrjThirdApplication\LINQEg\obj\Debug\netcoreapp3.1\LINQEg.pdb
+C:\OnlineTraining\LTI\July21\CSharp\Day3\PrjThirdApplication\LINQEg\obj\Debug\netcoreapp3.1\LINQEg.genruntimeconfig.cache
